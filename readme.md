@@ -9,6 +9,12 @@ npm run build
 firebase emulators:start
 ```
 
+in production build then deploy
+```
+npm run build
+firebase deploy
+```
+
 
 folder directory represents api path
 GROUPS/{REACTIVE / RESTFUL}/FILE
